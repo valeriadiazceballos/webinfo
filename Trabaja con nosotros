@@ -1,0 +1,62 @@
+ 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="description" content="ALDI Supermercado/>
+    <meta name="keyword" content="supermercado, comida, familias,pan, lechugas, frutas, ventas"/>
+
+    <title> Trabaja con nosotros </title>
+    
+
+</head>
+<body>
+
+   <header>
+      <h1> Trabaja con nosotros -  ALDI</h1>
+
+   </header>
+
+   <nav>
+  <ul>
+         <li><a href="Origen.html">Origen</a></li>
+        <li><a href="Quienes_somos.html">Quienes somos</a></li>
+        <li><a href="donde_estamos.html">Donde estamos</a></li>
+         <li><a href="Trabaja con nosotros.html">Trabaja con nosotros</a></li>
+    
+     </ul>
+ 
+   </nav>
+
+<nav>
+ España forma parte del grupo de empresas ALDI Nord, presente en 9 países y que se ha convertido en un grupo referente dentro del sector de la distribución alimentaria. Como inventores del descuento, nuestro objetivo durante más de 100 años ha sido ofrecer una experiencia de compra sencilla, de calidad y al mejor precio.
+ 
+Las personas y su talento son la clave de nuestro éxito. Ofrecemos empleo estable y fomentamos oportunidades de desarrollo junto a un equipo formado por los mejores profesionales.
+
+Nuestro compromiso en España sigue creciendo. Sin duda, lo que nos impulsa es la fuerza y el talento de todas las personas que formamos ALDI.
+
+
+<br>Puedes realizar lo que desees:</br>
+<br>-Colaborador/a de tienda.</br>
+<br>-Responsable de tienda.</br>
+<br>-Responsable de zona. </br>
+
+</p>
+
+</nav>
+<nav><nav>
+
+<img src="img/personas.jpg" alt="Personal AlDI" title="Personal ALDI">
+</nav>
+</nav>
+
+
+</body>
+<footer>
+ 
+<p>Telf: 900 902 466 </p></adress>
+<p>Redes sociales: Facebook, Twitter, Instagram y Whatsapp.</p>
+
+
+</footer>
+</html>
